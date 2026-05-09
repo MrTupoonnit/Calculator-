@@ -1,0 +1,16 @@
+intro = "welcome to my calculator :)"
+print(intro )
+
+
+first = float(input("enter first number:  "))
+second = float(input("enter second number:  "))
+function = input("enter operator [+;-;÷;×] ")
+
+if function =="+": 
+                      print("Result:", first + second)
+if function =="-":
+	                  print("Result:",first - second) 
+if function =="×":
+	                    print("Result:",first * second)
+if function =="÷":
+	                    print("Result:",first / second)	                 	                     
