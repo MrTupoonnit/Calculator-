@@ -1,2 +1,2 @@
 # Calculator-
-my first basic calculator on python 
+my first python codes 😺😅
